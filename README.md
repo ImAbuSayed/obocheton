@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/obocheton/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Obocheton](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/obocheton/) |
+| **Get License** | [Secure Licensing Rights for Obocheton](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/obocheton/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> গভীর রাতের এই নিস্তব্ধতায়, তোমারই ছায়া খুঁজে বেড়াই
+> মনের গহীনে যে ব্যথা লুকানো, তাকে আজ শুধু মুক্তি চাই
+> আধো আলো আর আধো আঁধারে, অচেতনে তুমি ডাকো আমায়
+> নিভৃত প্রেমের এই অনুরাগে, শূন্যতা শুধু নীরব কাঁদায়
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
