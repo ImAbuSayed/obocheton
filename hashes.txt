@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Obocheton
+
+This log tracks the cryptographic history and versioning for the song **Obocheton** (obocheton).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-11T06:29:53.430360 | `v1` | `150853bc91f617a7c7536430ca195803267ac5943a5dc33c2ae9a050ddca30a1` | `f730c45cbfd45b213a6118ca7de4b123a7b87d99a384f173a6571ddb54680980` | `2026-05-11_obocheton-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
